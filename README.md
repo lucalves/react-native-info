@@ -1,6 +1,4 @@
-<p align="center">
-  <img src="assets/images/logo.png" width="350">
-</p>
+<img src="assets/images/logo.png" width="350">
 
 # Introdução
 
