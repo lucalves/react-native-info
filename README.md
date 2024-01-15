@@ -2,7 +2,7 @@
 
 # Introdução
 
-[![Hosted On Badge](https://img.shields.io/badge/Hosted%20on-gitbook-yellow)](https://www.gitbook.com/) <img alt="GitHub Stars" src="https://img.shields.io/github/stars/lucalves/react-native-info?color=yellow">
+[![Hosted On Badge](https://img.shields.io/badge/Hosted%20on-Gitbook-yellow)](https://www.gitbook.com/) <img alt="GitHub Stars" src="https://img.shields.io/github/stars/lucalves/react-native-info?color=yellow">
 
 > Esse é um guia de referência para criar aplicativos robustos, pronto para produção que são fáceis de testar, manter e estender para iOS e Android. Este conteúdo é direcionado para desenvolvedores que já tiveram contato com React e ES6 e desejam aprender mais sobre aplicativos nativos utilizando React Native.
 
