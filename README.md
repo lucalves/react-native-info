@@ -1,4 +1,4 @@
-<img src="assets/images/logo.png" width="350">
+<img src="assets/images/logo.png" width="300">
 
 # Introdução
 
