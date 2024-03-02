@@ -12,7 +12,7 @@ A necessidade e consequentemente a ideia de criar esse conteúdo, foi a partir d
 
 ## O que você vai aprender ✍️
 
-- Como o React Native funciona internamente e como depurar aplicativos RN
+- Como o React Native funciona internamente e como depurar aplicativos
 - Como testar e escrever código modular em react-native
 - Redux: como utilizar-lo em sua aplicação
 - Como configurar um bom pipeline de DevOps que aumentará a produtividade de sua equipe e garantirá testes contínuos
