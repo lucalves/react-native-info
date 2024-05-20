@@ -10,7 +10,7 @@
 
 A necessidade e consequentemente a ideia de criar esse conteúdo, foi a partir de uma dificuldade a encontrar conteúdos mais "direto ao ponto" e de forma bem explicativa. Esse material tenta trazer de forma mais direta e mais simples possível. Fique a vontade para melhorar-lo, encontre mais informações na seção Contribuindo.
 
-## O que você vai aprender ✍️
+## O que você irá aprender ✍️
 
 - Como o React Native funciona internamente e como depurar aplicativos
 - Como testar e escrever código modular em react-native
